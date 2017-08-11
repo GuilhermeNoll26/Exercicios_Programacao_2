@@ -1,4 +1,4 @@
-package Resoluções;
+package Resolucao;
 
 import javax.swing.JOptionPane;
 
