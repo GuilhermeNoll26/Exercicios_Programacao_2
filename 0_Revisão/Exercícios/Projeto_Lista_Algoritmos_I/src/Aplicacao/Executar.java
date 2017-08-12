@@ -1,23 +1,6 @@
 package Aplicacao;
 
-import Resolucao.Questao01;
-import Resolucao.Questao02;
-import Resolucao.Questao03;
-import Resolucao.Questao04;
-import Resolucao.Questao05;
-import Resolucao.Questao06;
-import Resolucao.Questao07;
-import Resolucao.Questao08;
-import Resolucao.Questao09;
-import Resolucao.Questao10;
-import Resolucao.Questao11;
-import Resolucao.Questao12;
-import Resolucao.Questao13;
-import Resolucao.Questao14;
-import Resolucao.Questao15;
-import Resolucao.Questao16;
-import Resolucao.Questao17;
-import Resolucao.Questao18;
+import Resolucao.*;
 import javax.swing.JOptionPane;
 
 /**
