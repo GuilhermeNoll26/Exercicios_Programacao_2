@@ -1,8 +1,6 @@
 package Executar;
 
-import Resolucao.Questao01;
-import Resolucao.Questao02;
-import Resolucao.Questao03;
+import Resolucao.*;
 import javax.swing.JOptionPane;
 
 /**
@@ -31,22 +29,22 @@ public class Executar {
                     Questao03 q03 = new Questao03();
                     q03.executar();
                     break;
-//                case 4:
-//                    Questao04 q04 = new Questao04();
-//                    q04.executar();
-//                    break;
-//                case 5:
-//                    Questao05 q05 = new Questao05();
-//                    q05.executar();
-//                    break;
-//                case 6:
-//                    Questao06 q06 = new Questao06();
-//                    q06.executar();
-//                    break;
-//                case 7:
-//                    Questao07 q07 = new Questao07();
-//                    q07.executar();
-//                    break;
+                case 4:
+                    Questao04 q04 = new Questao04();
+                    q04.executar();
+                    break;
+                case 5:
+                    Questao05 q05 = new Questao05();
+                    q05.executar();
+                    break;
+                case 6:
+                    Questao06 q06 = new Questao06();
+                    q06.executar();
+                    break;
+                case 7:
+                    Questao07 q07 = new Questao07();
+                    q07.executar();
+                    break;
 //                case 8:
 //                    Questao08 q08 = new Questao08();
 //                    q08.executar();
