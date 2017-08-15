@@ -41,22 +41,22 @@ public class Executar {
                     Questao06 q06 = new Questao06();
                     q06.executar();
                     break;
-//                case 7:
-//                    Questao07 q07 = new Questao07();
-//                    q07.executar();
-//                    break;
-//                case 8:
-//                    Questao08 q08 = new Questao08();
-//                    q08.executar();
-//                    break;
-//                case 9:
-//                    Questao09 q09 = new Questao09();
-//                    q09.executar();
-//                    break;
-//                case 10:
-//                    Questao10 q10 = new Questao10();
-//                    q10.executar();
-//                    break;
+                case 7:
+                    Questao07 q07 = new Questao07();
+                    q07.executar();
+                    break;
+                case 8:
+                    Questao08 q08 = new Questao08();
+                    q08.executar();
+                    break;
+                case 9:
+                    Questao09 q09 = new Questao09();
+                    q09.executar();
+                    break;
+                case 10:
+                    Questao10 q10 = new Questao10();
+                    q10.executar();
+                    break;
 //                case 11:
 //                    Questao11 q11 = new Questao11();
 //                    q11.executar();
