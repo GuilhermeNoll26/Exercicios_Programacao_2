@@ -57,38 +57,30 @@ public class Executar {
                     Questao10 q10 = new Questao10();
                     q10.executar();
                     break;
-//                case 11:
-//                    Questao11 q11 = new Questao11();
-//                    q11.executar();
-//                    break;
-//                case 12:
-//                    Questao12 q12 = new Questao12();
-//                    q12.executar();
-//                    break;
-//                case 13:
-//                    Questao13 q13 = new Questao13();
-//                    q13.executar();
-//                    break;
-//                case 14:
-//                    Questao14 q14 = new Questao14();
-//                    q14.executar();
-//                    break;
-//                case 15:
-//                    Questao15 q15 = new Questao15();
-//                    q15.executar();
-//                    break;
-//                case 16:
-//                    Questao16 q16 = new Questao16();
-//                    q16.executar();
-//                    break;
-//                case 17:
-//                    Questao17 q17 = new Questao17();
-//                    q17.executar();
-//                    break;
-//                case 18:
-//                    Questao18 q18 = new Questao18();
-//                    q18.executar();
-//                    break;
+                case 11:
+                    JOptionPane.showMessageDialog(null, "Essa questão é para "
+                            + "resolver apenas mentalmente !!");
+                    break;
+                case 12:
+                    Questao12 q12 = new Questao12();
+                    q12.executar();
+                    break;
+                case 13:
+                    Questao13 q13 = new Questao13();
+                    q13.executar();
+                    break;
+                case 14:
+                    Questao14 q14 = new Questao14();
+                    q14.executar();
+                    break;
+                case 15:
+                    Questao15 q15 = new Questao15();
+                    q15.executar();
+                    break;
+                case 16:
+                    Questao16 q16 = new Questao16();
+                    q16.executar();
+                    break;
                 case -1:
                     break;
                 default:
